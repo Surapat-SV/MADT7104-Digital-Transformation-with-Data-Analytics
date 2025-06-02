@@ -31,7 +31,6 @@ As a team member, I was responsible for:
 
 - 🎨 **User Interface Design**
   - Drafted the structure and layout of the platform’s user interface using Streamlit widgets and custom inputs.
-  - Designed input areas for stock ticker, time periods, and financial data visualization filters.
 
 - 🧾 **Core Financial Modules**
   - **Balance Sheet Module**: Implemented code to extract, process, and present company assets, liabilities, and equity.
