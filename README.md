@@ -1,7 +1,6 @@
-# MADT7104-Digital-Transformation-with-Data-Analytics
-Digital Transformation with Data Analytics - 2nd Semester, 2023
 
-# 📘 MADT7104 – Digital Transformation with Data Analytics
+
+# 📘 MADT7104 – Digital Transformation with Data Analytics - 2nd Semester, 2023
 
 This repository contains my coursework, assignments, and project work for the subject **MADT7104: Digital Transformation with Data Analytics**, completed during the 2nd Semester of 2023.
 
