@@ -26,7 +26,7 @@ MADT7104-Digital-Transformation-with-Data-Analytics/
 └── README.md   <-- (You're reading this file)
 ```
 
-🧠 Highlights
+## 🧠 Highlights
 🔤 Class 8 & 9 – Natural Language Processing (NLP)
 Hands-on exercises with text cleaning, tokenization, stopword removal, and POS tagging.
 
@@ -39,7 +39,7 @@ Extracted and visualized financial statements (P&L, Balance Sheet, Cash Flow).
 
 Used text-to-SQL, LLMs, and web scraping to support SEM and investment insights.
 
-🚀 Purpose of this Repository
+## 🚀 Purpose of this Repository
 This repository serves as:
 
 A learning log of my progress through the MADT7104 course
